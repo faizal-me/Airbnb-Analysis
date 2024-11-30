@@ -19,3 +19,10 @@ This project aims to analyze Airbnb data to gain insights into pricing variation
 - Location-Based Insights: Neighborhood-level data exploration for deeper insights.
 - Dynamic Filters: Filter and drill down into the data to uncover specific trends.
 - Power BI Dashboard: Present a comprehensive view of key findings with interactive charts and graphs.
+
+## **Tech Stack**
+
+- Languages & Frameworks: Python, Streamlit
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Geopandas
+- Database: MySQL
+- Visualization Tool: Power BI
